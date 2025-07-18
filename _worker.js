@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "sawnzofficial.workers.dev/sub"; // Ganti dengan domain utama kalian
+const rootDomain = "sawnzofficial.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "lalala"; // Ganti dengan nama workers kalian
 const apiKey = "c7b5c9a65ec1e5e62332f9a5eefb6a9a951ac"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "sawnzofficial@gmail.com"; // Ganti dengan email yang kalian gunakan
