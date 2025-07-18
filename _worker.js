@@ -9,8 +9,8 @@ const apiKey = "c7b5c9a65ec1e5e62332f9a5eefb6a9a951ac"; // Ganti dengan Global A
 const apiEmail = "sawnzofficial@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
-let isApiReady = false;
-let proxyIP = "";
+let isApiReady = true;
+let proxyIP = "192.168.1.18";
 let cachedProxyList = [];
 
 // Constant
